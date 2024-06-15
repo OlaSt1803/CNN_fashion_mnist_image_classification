@@ -44,7 +44,7 @@ Dependencies:
 - Scikit-learn
 
 Results:
-Achieved a test accuracy of XX% with detailed metrics and visualizations provided in the repository.
+Achieved a test accuracy of 91.34% with detailed metrics and visualizations provided in the repository.
 
 Acknowledgements:
 - Fashion MNIST dataset provided by Zalando Research.
